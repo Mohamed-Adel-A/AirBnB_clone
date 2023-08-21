@@ -127,6 +127,7 @@ ul, li {
 }
 
 .review_title {
+    font-size: 16px;
 }
 
 .review_content {
@@ -137,8 +138,8 @@ ul, li {
     display: flex;
     align-content: center;
     background-repeat: no-repeat;
-    background-size: 30px;
-    height:30px;
+    background-size: 25px;
+    height: 25px;
     background-position: left;
     padding-left: 30px;
     margin-bottom: 200px;
