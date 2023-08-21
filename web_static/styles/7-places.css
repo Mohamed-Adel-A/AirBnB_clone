@@ -5,6 +5,7 @@
 
 .articles{
     display:flex;
+    flex-wrap:wrap;
 }
 
 .articles article{
