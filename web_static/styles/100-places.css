@@ -98,27 +98,3 @@ article h2{
 .description {
     text-align: left;
 }
-
-.amenities {
-    margin-top: 40px;
-}
-
-.reviews {
-    margin-top: 40px;
-}
-
-.amenities h2, .reviews h2 {
-    font-size: 16px;
-    border-bottom: 1px solid #DDDDDD;
-}
-
-ul, li {
-    list-style-type: none;
-}
-
-.review_title {
-}
-
-.review_content {
-    font-size: 12px;
-}
