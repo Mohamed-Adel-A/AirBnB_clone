@@ -48,6 +48,7 @@
     font-weight:400;
     font-size:14;
 	margin:0;
+	padding-left:30px;
 }
 
 .locations .popover, .amenities .popover{
