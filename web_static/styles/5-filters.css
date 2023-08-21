@@ -18,6 +18,7 @@
 	float: right;
     position:relative;
 	top:15%;
+	cursor: pointer;
 }
 
 .filters button:hover{
