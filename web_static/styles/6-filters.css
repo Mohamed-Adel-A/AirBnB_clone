@@ -55,6 +55,7 @@
     border-radius: 4px;
     display:none;
     position:relative;
+	list-style-type: none;
 }
 
 .locations:hover .popover, .amenities:hover .popover{
