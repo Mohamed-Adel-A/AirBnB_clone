@@ -60,3 +60,7 @@
 .locations:hover .popover, .amenities:hover .popover{
     display: block;
 }
+
+.locations .popover li h2, .amenities .popover li h2{
+    font-size:16px;
+}
