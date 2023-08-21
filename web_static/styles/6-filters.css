@@ -30,7 +30,7 @@
     width:25%;
     text-align: left;
     float: left;
-	padding-left:30px;
+	
 }
 
 .locations {
@@ -41,6 +41,7 @@
     font-weight:600;
 	margin:0;
 	margin-top:15px;
+	padding-left:30px;
 }
 
 .locations h4, .amenities h4{
