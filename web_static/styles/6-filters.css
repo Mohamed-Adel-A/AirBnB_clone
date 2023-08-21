@@ -48,3 +48,15 @@
     font-size:14;
 	margin:0;
 }
+
+.locations .popover, .amenities .popover{
+    background-color: #FAFAFA;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    display:none;
+    position:relative;
+}
+
+.locations:hover .popover, .amenities:hover .popover{
+    display: block;
+}
