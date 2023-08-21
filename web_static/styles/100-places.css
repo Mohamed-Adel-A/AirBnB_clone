@@ -102,10 +102,12 @@ article h2{
 
 .places .amenities{
     margin-top: 40px;
+    text-align:left;
 }
 
 .places .reviews {
     margin-top: 40px;
+    text-align:left;
 }
 
 .amenities h2, .reviews h2 {
@@ -126,4 +128,27 @@ ul, li {
 
 .review_content {
     font-size: 12px;
+}
+
+.amenities_list li{
+    display: flex;
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: left;
+    padding-left:30px;
+    padding-bottom:10px;
+    margin-bottom: 10px;
+}
+
+.pet_friendly {
+    background-image: url('../images/icon_pets.png');
+}
+
+.tv {
+    background-image: url('../images/icon_tv.png');
+}
+
+.wifi {
+    background-image: url('../images/icon_wifi.png');
 }
