@@ -3,6 +3,10 @@
     font-size: 30px;
 }
 
+.articles{
+    display:flex;
+}
+
 .articles article{
     width: 390px;
     border: 1px solid #FF5A5F;
