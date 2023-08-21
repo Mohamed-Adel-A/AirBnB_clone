@@ -45,7 +45,7 @@ article h2{
     justify-content: center;
     align-items: center;
     position: relative;
-    top: -100%;
+    top: -35px;
 }
 .information{
     height: 80px;
