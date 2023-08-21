@@ -54,19 +54,21 @@ article h2{
     border-color: #DDDDDD;
     padding-top: 10px;
     margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 .max_guest, .number_rooms, .number_bathrooms {
     width: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-repeat: no-repeat;
+    background-position: top;
 }
 
-.max_guest .icon {
+.max_guest {
     background-image: url("../images/icon_group.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
     
     border: 1px solid #DDDDDD
