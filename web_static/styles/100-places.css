@@ -113,6 +113,10 @@ article h2{
     border-bottom: 1px solid #DDDDDD;
 }
 
+ul, li {
+    list-style-type: none;
+}
+
 .review_title {
 }
 
