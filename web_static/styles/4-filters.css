@@ -26,3 +26,7 @@
     top: 15%;
     cursor: pointer;
 }
+
+.filters button:hover{
+    opacity: 0.9;
+}
