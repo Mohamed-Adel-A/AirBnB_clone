@@ -86,3 +86,8 @@ article h2{
 .max_guest .info, .number_rooms .info, .number_bathrooms .info {
     padding-top: 50px;
 }
+
+.user {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
