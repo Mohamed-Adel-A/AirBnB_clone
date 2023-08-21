@@ -62,6 +62,10 @@
     display: block;
 }
 
+.locations .popover ul, .amenities .popover ul{
+	list-style-type: none;
+}
+
 .locations .popover li h2, .amenities .popover li h2{
     font-size:16px;
 }
