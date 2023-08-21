@@ -117,6 +117,10 @@ ul, li {
     list-style-type: none;
 }
 
+.amenities ul, .reviews ul{
+    padding-left: 0px;
+}
+
 .review_title {
 }
 
