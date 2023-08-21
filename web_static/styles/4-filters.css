@@ -21,7 +21,34 @@
 	top:50%:
 }
 
-
 .filters button:hover{
+    opacity: 0.9;
+}
+
+.container .filters {
+    color: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+}
+
+.filters button {
+    font-size: 18px;
+    background: #FF5A5F;
+    color: #FFFFFF;
+    width: 20%;
+    border: 0;
+    outline: none;
+    height: 48px;
+    border-radius: 4px;
+    margin-right: 30px;
+    float: right;
+    position: relative;
+    top: 15%;
+    cursor: pointer;
+}
+
+.filters button:hover {
     opacity: 0.9;
 }
