@@ -25,6 +25,8 @@
     padding: 20px;
     margin: 20px;
     text-align: center;
+    display:flex;
+    flex-direction: column;
 }
 article h2{
     font-size: 30px;
