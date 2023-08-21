@@ -63,6 +63,10 @@
     display: block;
 }
 
+.locations .popover li, .amenities .popover li{
+	padding-bottom:5%;
+}
+
 .locations .popover ul, .amenities .popover ul{
 	list-style-type: none;
 }
