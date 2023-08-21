@@ -88,6 +88,11 @@ article h2{
 }
 
 .user {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.description {
+    text-align: left;
 }
