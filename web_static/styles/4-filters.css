@@ -16,6 +16,9 @@
     border:0px;
     border-radius:4px;
     margin-right:30px;
+	float: right;
+    position:relative;
+	top:15%;
 }
 
 .filters button:hover{
